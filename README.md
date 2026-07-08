@@ -5,6 +5,8 @@ computer-science lecture courses on YouTube. Each subfolder corresponds to a
 single course: it holds the scanned notes (per-lecture PDFs plus a
 `compiled.pdf`) and a README linking to the original YouTube playlist.
 
+**Total pages across all compilations: 1921**
+
 ## Subjects
 
 ### [Algebraic Topology](alg-top)
